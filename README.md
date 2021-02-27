@@ -1,5 +1,5 @@
 #### Hi. Welcome to my GitHub profile.
 
-🖥️ &nbsp; I’m working at abss interactive GmbH, a web agency based in Vienna, Austria\
+🖥️ &nbsp; I work as a front-end developer at abss interactive GmbH, a web agency based in Vienna, Austria\
 📫 &nbsp; You can contact me at nenadmarinkovic@protonmail.com\
 🌐 &nbsp; For more info, please visit [nenadmarinkovic.com](https://nenadmarinkovic.com)
